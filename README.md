@@ -33,5 +33,5 @@ BookSwap is an app developed using React Native with JavaScript and React for [i
 ### Versions (Newest at the top)
 **0.0.1 - 8/16/2017**
 ```
-- Release Version
+- Initial Commit
 ```
